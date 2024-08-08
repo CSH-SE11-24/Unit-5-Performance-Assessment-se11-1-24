@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#navbar {
+  background-color: lightpink !important;
+}
+
+#aboutTag {
+  color: white !important;
+  font-family: Apple Chancery, cursive  !important;
+}
+
+#endangeredTag {
+  color: white !important;
+  font-family: Apple Chancery, cursive !important;
+}
+
+#takeActionTag {
+  color: white !important;
+  font-family: Apple Chancery, cursive !important;
+}
+
+
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+
+#actionTag{
+  color: lightpink !important;
+  font-family: Apple Chancery, cursive !important;
+}
+
+#actionTag1{
+  color: lightpink !important;
+  font-family: Apple Chancery, cursive !important;
+}
+
+#abtAnimalCruelty {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#abtAnimal {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#h1Tag {
+  color: lightpink !important;
+  border: 2px;
+  text-align: center;}
